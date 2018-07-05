@@ -1,0 +1,16 @@
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\WcfService.dll.config
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\WcfService.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\WcfService.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\obj\Debug\WcfService.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\obj\Debug\WcfService.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\BusinessEntities.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\BusinessLogicLayer.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\DataAccessLayer.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\Utillity.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\BusinessEntities.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\BusinessLogicLayer.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\DataAccessLayer.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\DataAccessLayer.dll.config
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\WcfService\bin\Utillity.pdb

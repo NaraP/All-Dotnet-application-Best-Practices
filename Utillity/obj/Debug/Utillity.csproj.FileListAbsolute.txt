@@ -1,0 +1,6 @@
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\Utillity\bin\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\Utillity\bin\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\Utillity\obj\Debug\Utillity.csproj.CoreCompileInputs.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\Utillity\obj\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\Utillity\obj\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\Utillity\obj\Debug\Utillity.csprojResolveAssemblyReference.cache

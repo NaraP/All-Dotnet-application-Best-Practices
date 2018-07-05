@@ -1,0 +1,28 @@
+﻿@page
+@model WebCoreCrudApplication.Pages.CreatePageModelModel
+@{
+    ViewData["Title"] = "CreatePageModel";
+}
+
+<h2>CreatePageModel</h2>
+
+<form method="post">
+    <div>
+        <div>
+            <label for="txtEmpName">Employee Name :</label><input id="txtEmpName" type="text" asp-for="Employee.Name" class="form-control" style="width:250px" />
+        </div>
+        <div>
+            <label for="txtDpt">Employee Department :</label><input id="txtDpt" type="text" style="width:250px" asp-for="Employee.Department" class="form-control" />
+        </div>
+        <div>
+            <label for="txtGender">Employee Gender :</label><input id="txtGender" type="text" style="width:250px" asp-for="Employee.Gender" class="form-control" />
+        </div>
+        <div>
+            <label for="txtCity">Employee Department :</label><input id="txtCity" type="text" style="width:250px" asp-for="Employee.City" class="form-control" />
+        </div>
+        <div style="height:50px;"></div>
+        <div>
+            <input id="Button1" type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </div>
+</form>

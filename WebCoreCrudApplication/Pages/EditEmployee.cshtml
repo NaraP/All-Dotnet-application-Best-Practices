@@ -1,0 +1,38 @@
+﻿@page
+@model WebCoreCrudApplication.Pages.EditEmployeeModel
+@{
+    ViewData["Title"] = "EditEmployee";
+}
+
+<h2>Edit Employee</h2>
+
+<form method="post">
+    <table class="table table-bordered" style="width:500px">
+        <tbody>
+            <tr>
+                <td>
+                    <input asp-for="Employee.ID" type="hidden" />
+                    <label for="txtEmpName">Employee Name :</label>
+                </td>
+                <td>
+                    <input id="txtEmpName" type="text" asp-for="Employee.Name" class="form-control" style="width:250px" />
+                </td>
+            </tr>
+            <tr>
+                <td><label for="txtEmpName">Employee Department :</label></td>
+                <td><input id="txtEmpAddress" type="text" style="width:250px" asp-for="Employee.Department" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td><label for="txtEmpName">Employee Gender :</label></td>
+                <td><input id="txtEmpAddress" type="text" style="width:250px" asp-for="Employee.Gender" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td><label for="txtEmpName">Employee City :</label></td>
+                <td><input id="txtEmpAddress" type="text" style="width:250px" asp-for="Employee.City" class="form-control" /></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input id="Button1" type="submit" value="Save" class="btn btn-primary" /> | <a asp-page="/Index" class="btn btn-primary">Back</a></td>
+            </tr>
+        </tbody>
+    </table>
+</form>

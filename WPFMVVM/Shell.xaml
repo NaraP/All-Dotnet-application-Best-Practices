@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFMVVM.Shell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFMVVM"
+        xmlns:prism="http://www.codeplex.com/CompositeWPF"
+        mc:Ignorable="d"
+        Title="Shell" Height="300" Width="500">
+    <Grid>
+        <ContentControl>
+            <ContentControl prism:RegionManager.RegionName="CustomerRegion" Height="100" Width="500" HorizontalAlignment="Center" VerticalAlignment="Top"></ContentControl>
+        </ContentControl>
+    </Grid>
+</Window>

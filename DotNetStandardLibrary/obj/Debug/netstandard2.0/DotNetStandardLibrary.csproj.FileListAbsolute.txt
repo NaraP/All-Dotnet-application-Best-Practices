@@ -1,0 +1,9 @@
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\bin\Debug\netstandard2.0\DotNetStandardLibrary.deps.json
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\bin\Debug\netstandard2.0\DotNetStandardLibrary.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\bin\Debug\netstandard2.0\DotNetStandardLibrary.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\obj\Debug\netstandard2.0\DotNetStandardLibrary.csproj.CoreCompileInputs.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\obj\Debug\netstandard2.0\DotNetStandardLibrary.AssemblyInfoInputs.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\obj\Debug\netstandard2.0\DotNetStandardLibrary.AssemblyInfo.cs
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\obj\Debug\netstandard2.0\DotNetStandardLibrary.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\obj\Debug\netstandard2.0\DotNetStandardLibrary.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DotNetStandardLibrary\obj\Debug\netstandard2.0\DotNetStandardLibrary.csprojResolveAssemblyReference.cache

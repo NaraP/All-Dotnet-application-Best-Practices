@@ -1,0 +1,13 @@
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\BusinessEntities.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\BusinessEntities.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config

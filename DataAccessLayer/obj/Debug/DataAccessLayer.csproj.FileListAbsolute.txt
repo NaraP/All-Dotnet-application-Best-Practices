@@ -1,0 +1,11 @@
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\bin\Debug\BusinessEntities.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\bin\Debug\Utillity.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\bin\Debug\Utillity.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Narasimha_Data\GitHub\DotNetBestPractices\AllProjectsBestPractices\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
